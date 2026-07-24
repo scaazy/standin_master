@@ -1,0 +1,9 @@
+﻿{
+  "name": "feishu-kimi-bot",
+  "version": "1.0.0",
+  "description": "Feishu (Lark) bot bridging messages to Kimi K3 via the local OpenAI-compatible proxy",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": { "start": "node src/index.js" },
+  "dependencies": { "@larksuiteoapi/node-sdk": "^1.71.1" }
+}
