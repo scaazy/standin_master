@@ -1,3 +1,11 @@
 ﻿node_modules/
 .env
 *.log
+token-stats.json
+bot.pid
+data.json
+last-image-msg.json
+*.jpg
+*.png
+realesrgan/
+realesrgan.zip
